@@ -16,7 +16,7 @@ Proyecto final
 ##Índice
 
 * Título e imagen de portada
-
+Stranger Things
 * Insignias
 
 * Índice
@@ -28,23 +28,9 @@ Proyecto final
 
 * Estado del proyecto
 
-El presente proyecto se encuentra en una etapa de desarrollo.
+El proyecto siguiente  presentado esta en proceso de desarrollo
 
-* Características de la aplicación y demostración
 
-A continuacion pueden descargar la maquina virtual, recuerden que deben importarla en virtualbox. La clave de acceso es Politecnico
-
-https://pieduco-my.sharepoint.com/:u:/g/personal/harol_torres_pi_edu_co/EQWT0hl5EJVFlpCmGH3xvc8BblnZehw2bo59Ln26Q4e38w?e=Z7FnRe
-
-* Acceso al proyecto
-
-Las siguientes son las credenciales utilizadas para el proyecto.
-
-Web unknown - Usuario cosas - Contraseña
-
-BD StrangerTHings2 - BD root - Usuario Colombia2020. - Clave
-
-Linux - Ubuntu adminserver - Usuarios con privilegios admin123 - Passwd Ubuntu
 
 * Tecnologías utilizadas
 
@@ -58,11 +44,11 @@ Equipo de desarrollo Agil - Desarrollador 1 - Desarrollador 2 - Product Owner - 
 
 * Personas-Desarrolladores del Proyecto
 
-Harol Hernán Torres Neuta
+Edison  Carrillo Cabrera
 
 Licenciado
 Creative Commons 4.0
 
 * Conclusión
 
-El desarrollar aplicaciones desde una vista de programacion orientada a objetos habilita nuevos SKILL en pro de fortalecer conceptos basicos y su puesta en marcha. Adicionalmente, la integración de arquitecturas en un modelo de tres capas permite un rendimiento adecuado y una definición en una línea base a nivel de transaccionalidad. Esto se resume en el fortalecimiento de conocimientos en desarrollo desde las diferentes tecnologías que se pueden tener.
+El desarrollo de la aplicacion nos dejo en prospecto todos lo requerimientos para el levantamiento de un proyecto, la necesidad e importancia de utilizar metodologias agiles , el Scrum y todos sus componentes y caracteristicas que lo componen para el desarrollo optimo de este proyecto y como integrante forma parte de una importante caracteristical poyecto ya que es fundamental para la implementacion
