@@ -1,6 +1,11 @@
 # EDCC20
 Proyecto final
 
+Link de video: https://youtu.be/gs8JeVc_iDc
+
+
+![Captura23](https://user-images.githubusercontent.com/114208451/192062032-4900d5cf-0227-41f4-87fb-1cd8a1f87594.JPG)
+
 
 
 ![Stranger_Things_logo](https://user-images.githubusercontent.com/114208451/192049891-b9d191ea-5baa-4579-a5e7-b07ddf7a38e1.jpg)
